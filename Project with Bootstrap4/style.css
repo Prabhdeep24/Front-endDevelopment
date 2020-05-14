@@ -1,0 +1,60 @@
+.bgimg{
+    background-image: url('header4.jpg');
+    background-size: 100% 100%;
+    height:760px;
+    width:100%;
+}
+.prabh{
+padding-top: 300px;
+}
+
+.deep{
+
+}
+.imgsetting{
+    border-radius: 50%;
+    height:100px;
+    width:100px;
+}
+.fa-shopping-cart{
+    margin-top:20px;
+    margin-right: 5px;
+}
+.fa-desktop{
+    margin-top:24px;
+    margin-right: 5px;
+}
+.fa-lock{
+    margin-top:21px;
+    margin-right: 5px;
+}
+.lab{
+    height:640px;
+}
+.bgimg1{
+    margin-top:80px;
+}
+.row{
+    margin-top:140px;
+    
+}
+.row h2{
+    
+    font-weight: bold;
+}
+.moon{
+    font-size: 50px;
+}
+.math{
+    font-size: 25px;
+}
+.p1{
+   
+    
+}
+.p2{
+   
+}
+.p3{
+    
+}
