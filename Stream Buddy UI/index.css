@@ -1,0 +1,53 @@
+.zap{
+   margin-right: 20px;
+}
+#za{
+    margin-top:10px;
+}
+/* .prabh img{
+   width:50px;
+} */
+.img{
+   width:600px;
+   display:inline-block;
+}
+.img3{
+   margin-left:900px;
+   
+   
+}
+.img5{
+   height:300px;
+   margin-left:100px;
+}
+.img6{
+   margin-top: 50px;
+}
+.deep1{
+   margin-left: 160px;
+}
+.deep{
+   margin-left:50px;
+   margin-top:13px;
+
+}
+.vit{
+   display:flex;
+   margin-left:80px;
+   margin-top: 30px;
+}
+.sam{
+   margin-left:50px;
+}
+.shell{
+   height: 155px;
+}
+.shell2{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+}
+.face{
+   margin-top:30px;
+}
